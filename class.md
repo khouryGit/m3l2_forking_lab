@@ -1,3 +1,4 @@
-Student
-Lebanon
-Front-End Developer
+Hello there!
+Student, 
+Lebanon,
+Front-End Developer...
