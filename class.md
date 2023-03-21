@@ -1,3 +1,3 @@
-Clara El khoury
+Student
 Lebanon
 Front-End Developer
